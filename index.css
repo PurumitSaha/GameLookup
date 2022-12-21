@@ -1,0 +1,68 @@
+h1 {
+    margin: 0;
+    padding: 20vh;
+    color: white;
+    text-align:center;
+    font-size: 50px;
+    font-style:oblique;
+}
+html, body{ 
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: black;
+}
+
+html {
+    overflow-y: scroll;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+section{
+    padding-left: 25vh;
+    padding-right: 25vh;
+    text-align: center;
+
+}
+
+button{
+    font-size: 50px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border-radius: 12px;
+    border-style: solid;
+    margin-left: 15px;
+    margin-right: 15px;
+
+
+}
+.cat{
+    text-align: left;
+    padding: 5vh;
+    background-color: #FAF9F6;
+}
+
+.category-button{
+    padding:3px;
+    margin:3px;
+}
+
+h3{
+    font-style: oblique;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.category-buttons-div{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
